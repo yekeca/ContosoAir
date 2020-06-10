@@ -1,5 +1,7 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/jcaz400/Lesson2/_apis/build/status/yekeca.ContosoAir?branchName=master)](https://dev.azure.com/jcaz400/Lesson2/_build/latest?definitionId=2&branchName=master)
+
 
 # Microsoft.Github CI Demo
 
